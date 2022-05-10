@@ -4,11 +4,11 @@ There is a large population of wheelchair users. Most of the wheelchair users ne
 
 ## Demo
 
-Following from behind (robot’s view)
+Following from behind (robot’s view).  
 <img src="demo/track_2.gif" width="400" height="300" alt="Following from behind (robot’s view)"/>
 
-Following on left (robot’s view)
+Following on left (robot’s view). 
 <img src="demo/track_3.gif" width="400" height="300" alt="Following on left (robot’s view)"/>
 
-Following from behind then switch to left mode
+Following from behind then switch to left mode. 
 <img src="demo/track_1.gif" width="400" height="300" alt="Switch mode"/>
