@@ -9,11 +9,11 @@ We implemented the WeHelp system on Stretch Research Edition robot (RE1) by [Hel
 
 Following from behind (robot’s view).  
   
-<img src="demo/track_2.gif" width="200" height="200" alt="Following from behind (robot’s view)"/>  
+<img src="demo/track_2.gif" width="200" height="150" alt="Following from behind (robot’s view)"/>  
   
 Following on left (robot’s view). 
   
-<img src="demo/track_3.gif" width="200" height="200" alt="Following on left (robot’s view)"/>  
+<img src="demo/track_3.gif" width="200" height="150" alt="Following on left (robot’s view)"/>  
   
 Following from behind then switch to left mode. 
   
