@@ -17,5 +17,5 @@ Following on left (robot’s view).
   
 Following from behind then switch to left mode. 
   
-<img src="demo/track_1.gif" width="200" height="300" alt="Switch mode"/>  
+<img src="demo/track_1.gif" width="150" height="300" alt="Switch mode"/>  
   
