@@ -1,7 +1,11 @@
 # WeHelp
 ## Introduction
-In this project, we develop WeHelp, a shared autonomy system aimed for wheelchair users. A robot with WeHelp system has three modes, following mode, remote control mode and tele-operation mode. In the following mode, the robot follows the wheelchair user automatically via visual tracking. The wheelchair user can ask the robot follow them from behind, by the left or by the right. When the wheelchair user asks for help, the robot will recognize the command via speech recognition, and then switch to the tele-operation mode or remote control mode. In the tele-operation mode, the wheelchair user takes over the robot by a joy stick and control the robot to complete some complex tasks for their needs, such as opening doors, moving obstacles on the way, reaching objects on a high shelf or on the low ground, etc. In the remote control mode, a remote assistant takes over the robot and help the wheelchair user complete some complex tasks for their needs. Our evaluation shows that the pipeline is useful and practical for wheelchair users.    
-We implemented the WeHelp system on Stretch Research Edition robot (RE1) by [Hello Robot](https://hello-robot.com/product) - which is a novel mobile manipulator designed for domestic settings. 
+In this project, we developed WeHelp, a shared autonomy system for wheelchair users. The system operates in three modes: following, remote control, and tele-operation. In following mode, the robot autonomously follows the wheelchair user using visual tracking and can follow from behind, the left, or the right. When the user requests assistance, the robot switches to tele-operation or remote control mode via speech recognition.
+In tele-operation mode, the user controls the robot with a joystick to perform tasks such as opening doors, moving obstacles, or retrieving objects from high shelves or the floor. In remote control mode, a remote assistant takes control of the robot to help with complex tasks. Our evaluation shows the system is practical and beneficial for wheelchair users.
+
+We implemented WeHelp on the Stretch Research Edition (RE1) robot by [Hello Robot](https://hello-robot.com/product), a mobile manipulator designed for home environments.
+
+[Presentation Slides]([https://hello-robot.com/product](https://zackory.com/rc2022/media/WeHelp.pdf)
 
 <img src="demo/overview.png" width="500" height="200" alt="Illustration of the method pipeline."/>  
 
