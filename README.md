@@ -5,7 +5,7 @@ In tele-operation mode, the user controls the robot with a joystick to perform t
 
 We implemented WeHelp on the Stretch Research Edition (RE1) robot by [Hello Robot](https://hello-robot.com/product), a mobile manipulator designed for home environments.
 
-[Presentation Slides]([https://hello-robot.com/product](https://zackory.com/rc2022/media/WeHelp.pdf)
+[Presentation Slides](https://zackory.com/rc2022/media/WeHelp.pdf)
 
 <img src="demo/overview.png" width="500" height="200" alt="Illustration of the method pipeline."/>  
 
