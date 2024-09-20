@@ -1,6 +1,6 @@
 # WeHelp
 
-Abulikemu Abuduweili, Alice Wu, Tianhao Wei, Weiye Zhao, [WeHelp: A Shared Autonomy System for Wheelchair Users](https://arxiv.org/abs/2409.12159), arXiv.  
+Abulikemu Abuduweili, Alice Wu, Tianhao Wei, Weiye Zhao, [WeHelp: A Shared Autonomy System for Wheelchair Users](https://arxiv.org/abs/2409.12159), arXiv 2024.  
 
 ## Introduction
 In this project, we developed WeHelp, a shared autonomy system for wheelchair users. The system operates in three modes: following, remote control, and tele-operation. In following mode, the robot autonomously follows the wheelchair user using visual tracking and can follow from behind, the left, or the right. When the user requests assistance, the robot switches to tele-operation or remote control mode via speech recognition.
